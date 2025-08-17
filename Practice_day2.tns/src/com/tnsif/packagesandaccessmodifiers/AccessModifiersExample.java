@@ -5,8 +5,8 @@ public class AccessModifiersExample {
 	
 	public int publicVar = 10;
 	private int privateVar = 20;
-	protected int protectedVar = 30;
-	int defaultVar = 40;
+	public int protectedVar = 30;
+	public int defaultVar = 40;
 	
 	
 	public void show() {
